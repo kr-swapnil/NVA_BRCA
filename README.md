@@ -3,14 +3,14 @@ Exploring vulnerable building blocks in protein-protein interaction networks of 
 
 <b>File description</b>
 
-<a href="https://github.com/kr-swapnil/NVA_BRCA/blob/main/Basal_PPIs.txt">Basal_PPIs</a>  PPIs of Basal
+PPIs of Basal-like             ----->  <a href="https://github.com/kr-swapnil/NVA_BRCA/blob/main/Basal_PPIs.txt">Basal_PPIs</a>
 
-<a href="https://github.com/kr-swapnil/NVA_BRCA/blob/main/Her2_PPIs.txt">Her2_PPIs</a>    PPIs of Her2
+PPIs of Her2-enriched          ----->  <a href="https://github.com/kr-swapnil/NVA_BRCA/blob/main/Her2_PPIs.txt">Her2_PPIs</a>
 
-<a href="https://github.com/kr-swapnil/NVA_BRCA/blob/main/LumA_PPIs.txt">LumA_PPIs</a>    PPIs of Luminal A
+PPIs of Luminal A              ----->  <a href="https://github.com/kr-swapnil/NVA_BRCA/blob/main/LumA_PPIs.txt">LumA_PPIs</a>
 
-<a href="https://github.com/kr-swapnil/NVA_BRCA/blob/main/LumB_PPIs.txt">LumB_PPIs</a>    PPIs of Luminal B
+PPIs of Luminal B              ----->  <a href="https://github.com/kr-swapnil/NVA_BRCA/blob/main/LumB_PPIs.txt">LumB_PPIs</a>
 
-<a href="https://github.com/kr-swapnil/NVA_BRCA/blob/main/NormL_PPIs.txt">NormL_PPIs</a>  PPIs of Normal-like
+PPIs of Normal-like            ----->  <a href="https://github.com/kr-swapnil/NVA_BRCA/blob/main/NormL_PPIs.txt">NormL_PPIs</a>
 
-<a href="https://github.com/kr-swapnil/NVA_BRCA/blob/main/TANT_PPIs.txt">TANT_PPIs</a>    PPIs of Tumor-adjacent normal
+PPIs of Tumor-adjacent normal  ----->  <a href="https://github.com/kr-swapnil/NVA_BRCA/blob/main/TANT_PPIs.txt">TANT_PPIs</a>
