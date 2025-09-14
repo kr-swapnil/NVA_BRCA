@@ -14,3 +14,6 @@ PPIs of Luminal B              ----->  <a href="https://github.com/kr-swapnil/NV
 PPIs of Normal-like            ----->  <a href="https://github.com/kr-swapnil/NVA_BRCA/blob/main/NormL_PPIs.txt">NormL_PPIs</a>
 
 PPIs of Tumor-adjacent normal  ----->  <a href="https://github.com/kr-swapnil/NVA_BRCA/blob/main/TANT_PPIs.txt">TANT_PPIs</a>
+
+If you find this data useful and use it for your research, please cite the following article:
+<i>Kumar S, Agrawal A, Vindal V (2026). Exploring vulnerable building blocks in protein-protein interaction networks of breast tumor and adjacent normal tissues. Computational Biology and Chemistry, 120, 108647.</i>
